@@ -2,7 +2,7 @@
 
 > 👨🏻‍💻 Software Developer
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=rameskum) [![Build Status](https://travis-ci.org/rameskum/rameskum.png)](https://travis-ci.org/rameskum/rameskum)
+![visitor](https://visitor-badge.glitch.me/badge?page_id=rameskum) ![build status](https://github.com/rameskum/rameskum/workflows/build/badge.svg)
 
 <a href="https://twitter.com/intent/tweet?text=Share&url=https%3A%2F%2Frameskum.com&hashtags=portfolio&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
   <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
