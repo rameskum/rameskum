@@ -33,6 +33,48 @@ Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.co
 📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+🌆 Daytime    110 commits    █████████░░░░░░░░░░░░░░░░   36.54% 
+🌃 Evening    129 commits    ██████████░░░░░░░░░░░░░░░   42.86% 
+🌙 Night      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
+Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+Wednesday    32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
+Thursday     62 commits     █████░░░░░░░░░░░░░░░░░░░░   20.6% 
+Friday       60 commits     █████░░░░░░░░░░░░░░░░░░░░   19.93% 
+Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
+Sunday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 12/04/2022 16:59:11 UTC
 <!--END_SECTION:waka-->
 
 ![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameskum&show_icons=true&count_private=true&theme=dark)
