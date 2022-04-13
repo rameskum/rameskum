@@ -1,15 +1,33 @@
-name: wakatime-stats
+name: portfolio-website-stats
 
 on:
-  schedule:
-    - cron: '30 16 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - name: check out latest changes
+        uses: actions/checkout@v2
+
+      - name: set up node.js
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14'
+
+      - name: install node packages
+        run: npm i
+
+      - name: (Re)build README
+        run: npm --silent run build > README.md
+
+      - name: configure git
+        run: |
+          git config --global user.email "rameskum.ms@outlook.com"
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -17,7 +35,7 @@ jobs:
           SHOW_OS: 'False'
           SHOW_PROJECTS: 'True'
           SHOW_PROFILE_VIEWS: 'False'
-          SHOW_EDITORS: 'False'
+          SHOW_EDITORS: 'True'
           SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_LOC_CHART: 'False'
           SHOW_LINES_OF_CODE: 'True'
