@@ -66,18 +66,21 @@ Sunday       42 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 43 mins       ████████████████████████░   98.88% 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  2 hrs 43 mins       ████████████████████████░   98.87% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+quickstart               2 hrs 45 mins       █████████████████████████   99.94% 
+doks                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 ```
 
 
- Last Updated on 01/06/2022 00:59:03 UTC
+ Last Updated on 02/06/2022 00:58:13 UTC
 <!--END_SECTION:waka-->
 
 ![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameskum&show_icons=true&count_private=true&theme=dark)
