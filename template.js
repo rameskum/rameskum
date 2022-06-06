@@ -1,7 +1,9 @@
 export default `
-# Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello There 👋🏼
 
 > 👨🏻‍💻 Software Developer
+> 
+> [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) ✨
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=rameskum) ![build status](https://github.com/rameskum/rameskum/workflows/build/badge.svg)
 
@@ -26,7 +28,7 @@ export default `
 
 ## PORTFOLIO
 
-Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) <img src="https://media4.giphy.com/media/3ohhwjlY5Qvz1SA4Y8/giphy.gif?cid=790b7611c14d5b41f651c2be47dde117af00c078726bf08f&rid=giphy.gif&ct=s" width="30px">
+Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) ✨
 
 ### STATS
 
@@ -40,5 +42,4 @@ Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.co
 ## LETS LAUGH
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 `;
