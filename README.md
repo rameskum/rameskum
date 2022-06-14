@@ -38,6 +38,9 @@ Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.co
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=rameskum)
 
+## DOG FACT
+![Dog Fact](https://dog-fact.herokuapp.com/facts/dog)
+
 ## LETS LAUGH
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)

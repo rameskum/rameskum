@@ -2,7 +2,7 @@ export default `
 # Hello There 👋🏼
 
 > 👨🏻‍💻 Software Developer
-> 
+>
 > [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) ✨
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=rameskum) ![build status](https://github.com/rameskum/rameskum/workflows/build/badge.svg)
@@ -38,6 +38,9 @@ Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.co
 ![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameskum&show_icons=true&count_private=true&theme=dark)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=rameskum)
+
+## DOG FACT
+![Dog Fact](https://dog-fact.herokuapp.com/facts/dog)
 
 ## LETS LAUGH
 
