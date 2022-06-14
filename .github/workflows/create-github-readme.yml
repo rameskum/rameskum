@@ -1,9 +1,6 @@
 name: build readme with stats
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '30 18 * * *'
 
