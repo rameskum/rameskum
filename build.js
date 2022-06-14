@@ -1,5 +1,5 @@
 import Handlebars from 'handlebars';
-import source from './template.js';
+import source from './readme-template.js';
 
 const { compile } = Handlebars;
 const template = compile(source);
