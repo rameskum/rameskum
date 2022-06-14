@@ -32,7 +32,7 @@ Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.co
 ### STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-562%20Thousand%20lines%20of%20code-blue)
 
@@ -79,7 +79,7 @@ Mac                      39 hrs 38 mins      ███████████�
 ```
 
 
- Last Updated on 14/06/2022 15:18:55 UTC
+ Last Updated on 14/06/2022 18:50:45 UTC
 <!--END_SECTION:waka-->
 
 ![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameskum&show_icons=true&count_private=true&theme=dark)
