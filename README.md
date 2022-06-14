@@ -1,7 +1,8 @@
-
-# Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello There 👋🏼
 
 > 👨🏻‍💻 Software Developer
+>
+> [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) ✨
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=rameskum) ![build status](https://github.com/rameskum/rameskum/workflows/build/badge.svg)
 
@@ -26,61 +27,11 @@
 
 ## PORTFOLIO
 
-Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) <img src="https://media4.giphy.com/media/3ohhwjlY5Qvz1SA4Y8/giphy.gif?cid=790b7611c14d5b41f651c2be47dde117af00c078726bf08f&rid=giphy.gif&ct=s" width="30px">
+Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) ✨
 
 ### STATS
 
-📊 **this week i spent my time on:**
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2017%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-562%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
-🌆 Daytime    173 commits    ██████████░░░░░░░░░░░░░░░   39.5% 
-🌃 Evening    172 commits    █████████░░░░░░░░░░░░░░░░   39.27% 
-🌙 Night      41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.41% 
-Tuesday      105 commits    ██████░░░░░░░░░░░░░░░░░░░   23.97% 
-Wednesday    59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
-Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
-Friday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-Saturday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
-Sunday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    39 hrs 38 mins      █████████████████████████   100.0%
-
-🔥 Editors: 
-Browser                  39 hrs 38 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-rameskum                 39 hrs 38 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      39 hrs 38 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 14/06/2022 15:00:55 UTC
 <!--END_SECTION:waka-->
 
 ![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameskum&show_icons=true&count_private=true&theme=dark)
@@ -90,5 +41,3 @@ Mac                      39 hrs 38 mins      ███████████�
 ## LETS LAUGH
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
