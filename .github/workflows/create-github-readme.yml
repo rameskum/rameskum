@@ -38,7 +38,7 @@ jobs:
           SHOW_EDITORS: 'True'
           SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_LOC_CHART: 'True'
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 1
           SHOW_LINES_OF_CODE: 'True'
           SHOW_SHORT_INFO: 'True'
           LOCALE: "en"
