@@ -32,15 +32,15 @@ Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.co
 ### STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 430 Contributions in the Year 2022
+> 🏆 397 Contributions in the Year 2022
  > 
-> 📦 194.3 kB Used in GitHub's Storage 
+> 📦 194.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,22 +51,22 @@ Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.co
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.37% 
-🌆 Daytime    138 commits    ███████████░░░░░░░░░░░░░░   43.95% 
-🌃 Evening    117 commits    █████████░░░░░░░░░░░░░░░░   37.26% 
-🌙 Night      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42%
+🌞 Morning    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
+🌆 Daytime    139 commits    ███████████░░░░░░░░░░░░░░   44.13% 
+🌃 Evening    117 commits    █████████░░░░░░░░░░░░░░░░   37.14% 
+🌙 Night      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       65 commits     █████░░░░░░░░░░░░░░░░░░░░   20.7% 
-Tuesday      81 commits     ██████░░░░░░░░░░░░░░░░░░░   25.8% 
-Wednesday    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-Thursday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Saturday     27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-Sunday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1%
+Monday       65 commits     █████░░░░░░░░░░░░░░░░░░░░   20.63% 
+Tuesday      81 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71% 
+Wednesday    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+Thursday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Saturday     27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
+Sunday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06%
 
 ```
 
@@ -91,7 +91,7 @@ Mac                      45 hrs 27 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/rameskum/rameskum/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 08:42:56 UTC
+ Last Updated on 16/06/2022 18:51:05 UTC
 <!--END_SECTION:waka-->
 
 ![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameskum&show_icons=true&count_private=true&theme=dark)
