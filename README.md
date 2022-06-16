@@ -99,7 +99,7 @@ Mac                      45 hrs 27 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ![trophies](https://github-profile-trophy.vercel.app/?username=rameskum)
 
 ## DOG FACT
-![Dog Fact](https://dog-fact.herokuapp.com/facts/dog)
+![Dog Fact](https://dog-fact.herokuapp.com/facts/dog?v=1)
 
 ## LETS LAUGH
 
