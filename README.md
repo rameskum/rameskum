@@ -1,107 +1,29 @@
-# Hello There 👋🏼
+<h1 align="center">Hi 👋, I'm Ramesh Kumar</h1>
+<h3 align="center">A Java Software Developer 👨🏻‍💻 working in Toronto, Canada.</h3>
 
-> 👨🏻‍💻 Software Developer
->
-> [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) ✨
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameskum" alt="rameskum" /></a> </p>
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=rameskum) ![build status](https://github.com/rameskum/rameskum/workflows/build/badge.svg)
+- 🌱 I’m currently learning **AWS**
 
-<a href="https://twitter.com/intent/tweet?text=Share&url=https%3A%2F%2Frameskum.com&hashtags=portfolio&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
-  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
-       alt="tweet button" title="Share"></img>
-</a>
+- 👨‍💻 All of my projects are available at [https://rameskum.com](https://rameskum.com)
 
-## Social Links
+- 📝 I regularly write articles on [https://blogs.rameskum.com](https://blogs.rameskum.com)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameskum/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917064247865) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rameskum) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rameskum.fb) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rameskum.ms/) [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rameskum.ms@outlook.com)
+- 💬 Ask me about **java**
 
-## Tech Stack
+- 📫 How to reach me **me@rameskum.com**
 
-### 🛠 Lang & Framework
+- ⚡ Fun fact **I love latest tech.**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rameskum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameskum" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rameskum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rameskum" height="30" width="40" /></a>
+</p>
 
-### ⛏ Interest
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameskum&show_icons=true&locale=en&layout=compact" alt="rameskum" /></p>
 
-## PORTFOLIO
-
-Check out my portfolio here [![PORFOLIO](res/portfolio.gif)](https://rameskum.com) ✨
-
-### STATS
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 418 Contributions in the Year 2022
- > 
-> 📦 196.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
-🌆 Daytime    139 commits    ██████████░░░░░░░░░░░░░░░   41.37% 
-🌃 Evening    117 commits    ████████░░░░░░░░░░░░░░░░░   34.82% 
-🌙 Night      60 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.86%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.24% 
-Tuesday      84 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Wednesday    40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Thursday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-Friday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
-Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
-Sunday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Browser                  31 hrs 1 min        ████████████████░░░░░░░░░   67.14% 
-IntelliJ                 12 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   27.08% 
-DataGrip                 2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.52% 
-WebStorm                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-💻 Operating System: 
-Mac                      46 hrs 9 mins       █████████████████████████   99.92% 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/rameskum/rameskum/main/charts/bar_graph.png) 
-
-
- Last Updated on 10/07/2022 18:50:10 UTC
-<!--END_SECTION:waka-->
-
-![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=rameskum&show_icons=true&count_private=true&theme=dark)
-
-![trophies](https://github-profile-trophy.vercel.app/?username=rameskum)
-
-## DOG FACT
-![Dog Fact](https://dog-fact.herokuapp.com/facts/dog?v=1)
-
-## LETS LAUGH
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameskum&" alt="rameskum" /></p>
