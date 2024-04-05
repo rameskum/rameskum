@@ -26,6 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameskum&show_icons=true&locale=en&layout=compact" alt="rameskum" /></p>
 
-# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameskum&" alt="rameskum" /></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rameskum&theme=github-dark)](https://git.io/streak-stats)
