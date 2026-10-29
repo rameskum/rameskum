@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/rameskum">LinkedIn</a> ·
   <a href="https://leetcode.com/u/rameskum/">LeetCode</a> ·
   <a href="https://rameskum.com/resume.pdf">Resume</a> ·
-  <a href="mailto:rameskum.corp@outlook.com">Email</a>
+  <a href="mailto:me@rameskum.com">Email</a>
 </p>
 
 ## About me
@@ -50,7 +50,7 @@ More at [blogs.rameskum.com](https://blogs.rameskum.com).
 ## Tech I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,kubernetes,azure,docker,terraform,linux,nix,ts,nextjs&perline=12" alt="Java, Spring, Kafka, PostgreSQL, Kubernetes, Azure, Docker, Terraform, Linux, Nix, TypeScript, Next.js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kubernetes,azure,docker,linux,nix,ts,nextjs&perline=10" alt="Java, Spring, PostgreSQL, Kubernetes, Azure, Docker, Linux, Nix, TypeScript, Next.js" />
 </p>
 
 ## GitHub activity
