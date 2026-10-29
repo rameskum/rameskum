@@ -1,29 +1,62 @@
-<h1 align="center">Hi 👋, I'm Ramesh Kumar</h1>
-<h3 align="center">A Java Software Developer 👨🏻‍💻 working in Toronto, Canada.</h3>
+<h1 align="center">Hi, I'm Ramesh Kumar</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameskum" alt="rameskum" /></a> </p>
-
-- 🌱 I’m currently learning **AWS**
-
-- 👨‍💻 All of my projects are available at [https://rameskum.com](https://rameskum.com)
-
-- 📝 I regularly write articles on [https://blogs.rameskum.com](https://blogs.rameskum.com)
-
-- 💬 Ask me about **java**
-
-- 📫 How to reach me **me@rameskum.com**
-
-- ⚡ Fun fact **I love latest tech.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rameskum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameskum" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rameskum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rameskum" height="30" width="40" /></a>
+<p align="center">
+  <b>Senior Backend &amp; Data Engineer</b> · Toronto, Canada<br />
+  I build the quiet systems that keep business moving.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://rameskum.com">Portfolio</a> ·
+  <a href="https://blogs.rameskum.com">Blog</a> ·
+  <a href="https://linkedin.com/in/rameskum">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/rameskum/">LeetCode</a> ·
+  <a href="https://rameskum.com/resume.pdf">Resume</a> ·
+  <a href="mailto:me@rameskum.com">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameskum&show_icons=true&locale=en&layout=compact" alt="rameskum" /></p>
+## About me
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rameskum&theme=github-dark)](https://git.io/streak-stats)
+- 💼 Data Engineer at **TD Securities** (via Endava) in Toronto, modernizing data-intensive Java applications for Azure Kubernetes Service
+- 🔁 Building Java-orchestrated Spark and Databricks workflows that migrate Apache Iceberg datasets from HDFS to Unity Catalog-managed Delta Lake tables
+- 🧭 10+ years of Java, Spring Boot, and microservices across telecom and finance - previously at Amdocs (Toronto and India) and Oracle
+- 🏠 Run a self-hosted homelab as a production-style reliability gym: edge, identity, and fleet operations
+- 📝 Write about Java, Spring Boot, backend design, and self-hosting at [blogs.rameskum.com](https://blogs.rameskum.com)
+
+## Selected work
+
+| Project | What changed |
+| --- | --- |
+| **Java data platform**<br />TD Securities | **60% ↓** file-upload latency and **40% ↓** feed onboarding time with a config-driven API Source Loader; Spring Boot on AKS with Helm, instrumented with OpenTelemetry → Datadog |
+| **ART - Automatic Recovery Tool**<br />Amdocs | Spring Boot console that detects billing data inconsistencies, reports them, and guides remediation - **25% ↓** operational overhead |
+| **Homelab fleet**<br />Personal | Six-host fleet split into edge, app, and data planes: Traefik, CrowdSec, and Authelia at the edge, with Beszel, Dozzle, and Homarr for health and logs |
+
+## What I'm building
+
+- **A GitOps-driven homelab platform** - infrastructure as code, automated deployments, and self-service management of the services it runs
+- **A resume generated from YAML** - one version-controlled source rendered with RenderCV
+- **[dotfiles](https://github.com/rameskum/dotfiles)** - a reproducible Ubuntu setup with Nix and Home Manager: one command, the same machine every time
+- **[portfolio](https://github.com/rameskum/portfolio)** and **[blog](https://github.com/rameskum/rameskum-blogs)** - the Next.js site at rameskum.com and the Hugo site behind my writing
+
+## Recent writing
+
+- [ScopedValue: The ThreadLocal Replacement Java 25 Finalized](https://blogs.rameskum.com/posts/scoped-value-java-25/)
+- [Dokploy: Your Own Vercel in One Docker Install](https://blogs.rameskum.com/posts/dokploy-selfhost-paas/)
+- [JWT Auth in Spring Boot 4: The Security 7 Way](https://blogs.rameskum.com/posts/jwt-auth-spring-boot-4-security-7/)
+- [API Versioning in Spring Boot 4: The Built-In Way](https://blogs.rameskum.com/posts/api-versioning-spring-boot-4/)
+- [Solve Every Error Once: The Fleet Playbook for Migrating 60+ Services to Spring Boot 4](https://blogs.rameskum.com/posts/spring-boot-4-fleet-migration-playbook/)
+
+More at [blogs.rameskum.com](https://blogs.rameskum.com).
+
+## Tech I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kubernetes,azure,docker,linux,nix,ts,nextjs&perline=10" alt="Java, Spring, PostgreSQL, Kubernetes, Azure, Docker, Linux, Nix, TypeScript, Next.js" />
+</p>
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rameskum&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rameskum&theme=default&hide_border=true" />
+  <img alt="GitHub contribution streak for rameskum" src="https://streak-stats.demolab.com?user=rameskum&theme=default&hide_border=true" />
+</picture>
