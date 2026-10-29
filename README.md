@@ -18,7 +18,7 @@
 
 - 💼 Data Engineer at **TD Securities** (via Endava) in Toronto, modernizing data-intensive Java applications for Azure Kubernetes Service
 - 🔁 Building Java-orchestrated Spark and Databricks workflows that migrate Apache Iceberg datasets from HDFS to Unity Catalog-managed Delta Lake tables
-- 🧭 10+ years of Java, Spring Boot, and microservices across telecom and finance - previously at Amdocs (Toronto and India), Oracle, and Avaya
+- 🧭 10+ years of Java, Spring Boot, and microservices across telecom and finance - previously at Amdocs (Toronto and India) and Oracle
 - 🏠 Run a self-hosted homelab as a production-style reliability gym: edge, identity, and fleet operations
 - 📝 Write about Java, Spring Boot, backend design, and self-hosting at [blogs.rameskum.com](https://blogs.rameskum.com)
 
